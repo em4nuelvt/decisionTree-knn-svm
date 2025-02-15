@@ -30,7 +30,7 @@ Para modelar a árvore de decisão, foram consideradas as seguintes perguntas:
 
 Obs.: Inicialmente a proposta eram 10 perguntas, mas a quantidade foi ajustada para acrescentar novos resultados para a árvore de decisão.
 
-As decisões de implementação e detalhes sobre o algoritmo aplicado está no arquivo [hobbies.ipynb](hobbies.ipynb).
+As decisões de implementação e detalhes sobre o algoritmo aplicado estão no arquivo [hobbies.ipynb](hobbies.ipynb).
 
 ## ✅ **Objetivo 2 - Classificação de Diagnóstico de Câncer com Árvore de Decisão, KNN e SVM**
 
