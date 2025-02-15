@@ -1,13 +1,13 @@
-# **Estudo voltado para algoritmos de aprendizado supervisionado: Árvores de Decisão, KNN e SVM.**
+# ⚙️ **Estudo voltado para algoritmos de aprendizado supervisionado: Árvores de Decisão, KNN e SVM.**
 
 Os algoritmos de classificação são técnicas de Machine Learning utilizadas para atribuir rótulos ou categorias a conjuntos de dados. Os algoritmos de Árvore de Decisão, K-Nearest Neighbors (KNN) e Support Vector Machine (SMM) se enquadram nessa classe de algoritmos de classificação. Todos têm como característica comum a análise de exemplos previamente rotuladas para detectar padrões e, a partir deles, determinam em qual classe um novo elemento de teste pertencerá. Vale ressaltar que esses algoritmos têm várias aplicações, desde reconhecimento de imagens, filtragem de dados, sistemas de recomendação ou até mesmo diagnósticos médicos. Dessa forma, o presente estudo visa aprofundar o conhecimento nesses algoritmos e aplicá-los para um problema proposto e, em seguida, analisar um data-set com informações sobre câncer para classificar o tipo de tumor.
 
-## Objetivos
+## 📌Objetivos
 1. Desenvolver uma árvore de decisão para ajudar uma pessoa decidir entre diferentes hobbies ou carreiras.
 2. Explorar um dataset para criar uma nova aplicação utilizando os algoritmos de aprendizado supervisionado. Especificamente, a abordagem neste projeto trata-se de uma análise de dados sobre câncer de mama que foram utilizados para classificar o diagnóstico.
 
 
-## **Objetivo 1 - Árvore de Decisão: Decidir entre diferentes Hobbies.**
+## ✅ **Objetivo 1 - Árvore de Decisão: Decidir entre diferentes Hobbies.**
 As árvores de decisão são estruturas utilizadas para tomada de decisão e resolução de problemas. Elas funcionam como um fluxo de perguntas que, com base nas respostas obtidas, direcionam para uma conclusão ou recomendação específica. Em cada nó da árvore, é feita uma pergunta que separa os possíveis caminhos levando a novas perguntas ou a um resultado final.
 Essa abordagem  permite que decisões mais complexas sejam divididas em etapas um pouco mais simples e sequenciais. Dessa forma, com a implementação de uma árvore de decisão, é possível criar um sistema simples de recomendação, como é o caso abordado para decidir entre diferentes hobbies e carreiras.
 
@@ -32,24 +32,24 @@ Obs.: Inicialmente a proposta eram 10 perguntas, mas a quantidade foi ajustada p
 
 As decisões de implementação e detalhes sobre o algoritmo aplicado está no arquivo [hobbies.ipynb](hobbies.ipynb).
 
-## **Objetivo 2 - Classificação de Diagnóstico de Câncer**
+## ✅ **Objetivo 2 - Classificação de Diagnóstico de Câncer com Árvore de Decisão, KNN e SVM**
 
 Breast Cancer Wisconsin (Diagnostic): Um conjunto de dados de câncer de mama, com 30 características numéricas, classificando os tumores em malignos e benignos.
 Link para o dataset: [Breast Cancer Dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic)
 
-### Explicando o dataset:
+###  Explicando o dataset:
 O Breast Cancer Wisconsin Dataset (diagnóstico) é um conjunto de dados utilizado para classificar tumores mamários como benignos ou malignos. O dataset contém 569 instâncias, com 30 atributos numéricos extraídos de imagens digitalizadas de células cancerígenas. Esses atributos representam características como a textura, área e perímetro das células. O objetivo principal desse estudo é utilizar esse conjunto de dados para desenvolver e testar algoritmos de classificação, de modo a identificar se o tumor é benigno ou maligno. Para essa tarefa, foram aplicados três algoritmos: Árvore de Decisão, K-Nearest Neighbors (KNN) e Máquina de Vetores de Suporte (SVM).
 
-### Implementação e comparação dos algoritmos
-A implementação e comparação da árvore de decisão, do KNN e do SVM estão no arquivo [cancer_diagnostic.ipynb](cancer_diagnostic.ipynb). 
+### Implementação, análise e comparação dos algoritmos
+A implementação e comparação da árvore de decisão, do KNN e do SVM estão no arquivo estão detalhadas no arquivo[cancer_diagnostic.ipynb](cancer_diagnostic.ipynb). 
 
 
-## Acesso ao Jupyter Notebook de cada proposta
+## 📝 Acesso ao Jupyter Notebook de cada proposta
 - [Árvore de Decisão: Decidir entre diferentes Hobbies](hobbies.ipynb).
 - [Classificação de Diagnóstico de Câncer](cancer_diagnostic.ipynb). 
 
 
-## Autores
+## 👤Autores
 - **Anielly Gonçalves**: anielly@aluno.cefetmg.br
 - **Emanuel Vieira Tavares**:emanuel@aluno.cefetmg.br 
 
