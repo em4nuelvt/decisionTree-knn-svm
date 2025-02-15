@@ -44,9 +44,13 @@ O Breast Cancer Wisconsin Dataset (diagnóstico) é um conjunto de dados utiliza
 A implementação e comparação da árvore de decisão, do KNN e do SVM estão detalhadas no arquivo [cancer_diagnostic.ipynb](cancer_diagnostic.ipynb). 
 
 
-## 📝 Acesso ao Jupyter Notebook de cada proposta
+## 📝 Acesso ao arquivo Jupyter Notebook de cada proposta
 - [Árvore de Decisão: Decidir entre diferentes Hobbies](hobbies.ipynb).
 - [Classificação de Diagnóstico de Câncer](cancer_diagnostic.ipynb). 
+
+## 📝 Acesso ao Google Colab de cada proposta
+- [Árvore de Decisão: Decidir entre diferentes Hobbies](https://drive.google.com/file/d/1oebvYBr9d0EaaMZ5Yprd4Yy8J1ZGYh1R/view?usp=sharing).
+- [Classificação de Diagnóstico de Câncer](https://drive.google.com/file/d/1NyPuGqQx93aVwdoXz4nnIKzSXbYWIL1r/view?usp=sharing).
 
 
 ## 👤Autores
