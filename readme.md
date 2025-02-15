@@ -7,7 +7,7 @@ Os algoritmos de classificação são técnicas de Machine Learning utilizadas p
 2. Explorar um dataset para criar uma nova aplicação utilizando os algoritmos de aprendizado supervisionado. Especificamente, a abordagem neste projeto trata-se de uma análise de dados sobre câncer de mama que foram utilizados para classificar o diagnóstico.
 
 
-## ✅ **Objetivo 1 - Árvore de Decisão: Decidir entre diferentes Hobbies.**
+## ✅ **Objetivo 1 - Árvore de Decisão: Decidir Entre Diferentes Hobbies.**
 As árvores de decisão são estruturas utilizadas para tomada de decisão e resolução de problemas. Elas funcionam como um fluxo de perguntas que, com base nas respostas obtidas, direcionam para uma conclusão ou recomendação específica. Em cada nó da árvore, é feita uma pergunta que separa os possíveis caminhos levando a novas perguntas ou a um resultado final.
 Essa abordagem  permite que decisões mais complexas sejam divididas em etapas um pouco mais simples e sequenciais. Dessa forma, com a implementação de uma árvore de decisão, é possível criar um sistema simples de recomendação, como é o caso abordado para decidir entre diferentes hobbies e carreiras.
 
