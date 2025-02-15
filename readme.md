@@ -41,7 +41,7 @@ Link para o dataset: [Breast Cancer Dataset](https://archive.ics.uci.edu/dataset
 O Breast Cancer Wisconsin Dataset (diagnóstico) é um conjunto de dados utilizado para classificar tumores mamários como benignos ou malignos. O dataset contém 569 instâncias, com 30 atributos numéricos extraídos de imagens digitalizadas de células cancerígenas. Esses atributos representam características como a textura, área e perímetro das células. O objetivo principal desse estudo é utilizar esse conjunto de dados para desenvolver e testar algoritmos de classificação, de modo a identificar se o tumor é benigno ou maligno. Para essa tarefa, foram aplicados três algoritmos: Árvore de Decisão, K-Nearest Neighbors (KNN) e Máquina de Vetores de Suporte (SVM).
 
 ### Implementação, análise e comparação dos algoritmos
-A implementação e comparação da árvore de decisão, do KNN e do SVM estão no arquivo estão detalhadas no arquivo [cancer_diagnostic.ipynb](cancer_diagnostic.ipynb). 
+A implementação e comparação da árvore de decisão, do KNN e do SVM estão detalhadas no arquivo [cancer_diagnostic.ipynb](cancer_diagnostic.ipynb). 
 
 
 ## 📝 Acesso ao Jupyter Notebook de cada proposta
