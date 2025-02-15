@@ -36,6 +36,8 @@ Para modelar a árvore de decisão, foram consideradas as seguintes perguntas:
 14. Você se interessa por música e artes visuais?
 15. Prefere atividades solitárias, como leitura ou jogos solo?
 
+Obs.: Inicialmente a proposta eram 10 perguntas, mas a quantidade foi ajustada para acrescentar novos resultados para a árvore de decisão.
+
 Dessa forma, com base nas perguntas para estruturar a árvore de decisão os seguintes passos de implementação foram adotados:
 
 ### Definição da Classe e Estrutura Básica  
